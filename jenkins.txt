@@ -1,2 +1,0 @@
-created this file for first assignment of jenkins.
-pipeline should be triggered on push event.
